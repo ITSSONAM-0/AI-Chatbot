@@ -42,20 +42,27 @@ python gui_chatbot.py
 
 
 💻 Usage
-CLI Example:-
+
+CLI Example
+
 You: hi
+
 Bot: Hello!
 
 You: time
+
 Bot: ⏰ Current time is 15:42:10
 
 You: weather Delhi
+
 Bot: 🌍 Weather in Delhi: 30°C, clear sky
 
 You: search Python
+
 Bot: 📖 Wikipedia: Python is a high-level programming language...
 
 You: tell me a joke
+
 Bot: Why don’t scientists trust atoms? Because they make up everything!
 
 GUI Version:
