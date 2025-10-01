@@ -30,10 +30,13 @@ An intelligent Python-based AI Chatbot capable of handling conversations, tellin
    ```bash
    git clone https://github.com/your-username/ai-chatbot.git
    cd ai-chatbot
+   
 2.Install required libraries:-
  pip install requests wikipedia
+ 
 3. Get a free API key from OpenWeather and replace it in both files:-
 API_KEY = "your_api_key_here"
+
 4.Run the chatbot:-
 python gui_chatbot.py
 
